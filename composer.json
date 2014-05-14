@@ -1,0 +1,15 @@
+{
+    "name": "nkt/smarty_vs_twig",
+    "description": "Benchmark Smarty vs Twig",
+    "require": {
+        "twig/twig": "*",
+        "smarty/smarty": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gusakov Nikita",
+            "email": "dev@nkt.me"
+        }
+    ]
+}
